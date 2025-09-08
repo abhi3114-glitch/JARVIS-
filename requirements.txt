@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+pyautogui
+opencv-python
+pywhatkit
+requests
+pillow
+numpy
