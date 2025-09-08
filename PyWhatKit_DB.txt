@@ -1,10 +1,1 @@
-Date: 25/10/2024
-Time: 23:56
-Phone Number: +91 000000000
-Message: hello
---------------------
-Date: 26/10/2024
-Time: 0:10
-Phone Number: +91 8273277866
-Message: hello
---------------------
+
